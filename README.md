@@ -1,6 +1,3 @@
-
-
-
 [![MasterHead](https://i.gifer.com/OyGx.gif)](https://github.com/sagnik3115)
 <h1 align="center">Hi 👋, I'm Sagnik Modak</h1>
 <h3 align="center">A Leader in making</h3>
