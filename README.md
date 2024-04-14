@@ -1,6 +1,6 @@
 [![MasterHead](https://i.gifer.com/OyGx.gif)](https://github.com/sagnik3115)
 <h1 align="center">Hi 👋, I'm Sagnik Modak</h1>
-<h3 align="center">A Data Scientist in making</h3>
+<h3 align="center">A Leader in making</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvk2002&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvk2002" /> </p>
